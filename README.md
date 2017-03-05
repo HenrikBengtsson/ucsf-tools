@@ -9,7 +9,7 @@ The UCSF Linux Toolbox is a collection of Linux tools that are useful for Linux 
 ## Usage
 ```sh
 $ ucsf --help
-UCSF Command Line Tools
+UCSF Linux Toolbox
 
 Usage:
  ucsf <tool> ...
@@ -32,8 +32,7 @@ License: GPL (>= 2.1) [https://www.gnu.org/licenses/gpl.html]
 $ mkdir ~/bin
 $ cd bin
 $ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf
-$ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf-v
-pn
+$ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf-vpn
 $ chmod ugo+x ucsf ucsf-vpn
 $ ~/bin/ucsf --version
 1.0.0

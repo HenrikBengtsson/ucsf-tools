@@ -91,8 +91,7 @@ Not connected to the UCSF VPN network (your public IP is 73.93.141.38)
 $ mkdir ~/bin
 $ cd bin
 $ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf
-$ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf-v
-pn
+$ wget https://raw.githubusercontent.com/UCSF-tools/ucsf-tools/master/bin/ucsf-vpn
 $ chmod ugo+x ucsf ucsf-vpn
 ```
 
